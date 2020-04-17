@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\Users\dewak\Coding\LazarusNew\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1331391477"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-FiC:\Users\dewak\Praktek Lazarus\Praktek01\lib\x86_64-win64&quot; -FuC:\Users\dewak\Coding\LazarusNew\lcl\units\x86_64-win64\win32 -FuC:\Users\dewak\Coding\LazarusNew\lcl\units\x86_64-win64 -FuC:\Users\dewak\Coding\LazarusNew\components\lazutils\lib\x86_64-win64 -FuC:\Users\dewak\Coding\LazarusNew\packager\units\x86_64-win64 &quot;-FuC:\Users\dewak\Praktek Lazarus\Praktek01\&quot; &quot;-FUC:\Users\dewak\Praktek Lazarus\Praktek01\lib\x86_64-win64\&quot; &quot;-FEC:\Users\dewak\Praktek Lazarus\Praktek01\&quot; &quot;-oC:\Users\dewak\Praktek Lazarus\Praktek01\Praktek01.exe&quot; -dLCL -dLCLwin32 Praktek01.lpr"/>
+</CONFIG>
